@@ -1,0 +1,7 @@
+/*EsteArchivoEsDeFacil_Lectura_Para_el_Aut%mata*/
+
+if ( numero >= 17.34 ) {
+	dato = 25..18
+	}
+	
+while ( dato != hola && valor <. 5 ) { x = dato - numero }
